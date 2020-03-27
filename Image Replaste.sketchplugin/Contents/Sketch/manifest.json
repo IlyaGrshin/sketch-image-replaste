@@ -11,7 +11,7 @@
     {
       "script" : "image-replaste.js",
       "handler" : "onRun",
-      "shortcut" : "cmd shift y",
+      "shortcut" : "cmd сtrl i",
       "name" : "Image Replaste!",
       "identifier" : "image-replaste",
       "description" : "Replace your image with your pasteboard image",
